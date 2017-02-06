@@ -25,6 +25,11 @@ li a:hover{
   color: #dfa126;
 }
 
+.accordion-title {color: #065a00; font-size: 45px;}
+.accordion-title:link{color:#065a00;}
+.accordion-title:visited {color:#065a00;}
+.accordion-title:hover{color:#dfa126;}
+.accordion-title:active {color:#065a00;}
 
 .formtitle{
   margin-top: 20px;
