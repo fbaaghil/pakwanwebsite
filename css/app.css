@@ -160,7 +160,7 @@ ul.top-bar-left{
 
 
 #head2 {background-color: #065a00; padding: 10px;}
-.head2text {color: black; font-family: 'Hind', sans-serif; font-size: 20px; text-align: center; }
+.head2text {background-color:#065a00; color: black; font-family: 'Hind', sans-serif; font-size: 20px; text-align: center; }
 
 #text{padding: 20px;}
 
